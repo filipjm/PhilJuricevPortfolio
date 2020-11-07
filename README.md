@@ -18,7 +18,7 @@ If you are still wondering how I achieved the 100% win rate, well, that is left 
 
 # TECHNICAL PROJECTS
 
-The following is a list (some) projects I have completed either in the field of Statistics or Computer Science.
+The following is a list of (some) projects I have completed either in the field of Statistics or Computer Science.
 
 # Forecasting Disease Spread Risks Based on Human Movement Patterns
 
