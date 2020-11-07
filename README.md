@@ -1,6 +1,7 @@
 ## ABOUT ME
 
 By using my strong knowledge of mathematical statistics I have achieved a 100% win rate at the casino.
+
 To learn more about the odds, I have decided to do a Bachelor of Mathematics (Statistics) & Information Technology (Computer Science),
 to equip myself with the required theoretical knowledge, and the GPA of 6.25 / 7.00 means I am on the right track.
 
