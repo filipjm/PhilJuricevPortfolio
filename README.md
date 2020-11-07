@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## ABOUT ME
 
-You can use the [editor on GitHub](https://github.com/filipjm/PhilJuricevPortfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+By using my strong knowledge of mathematical statistics I have achieved a 100% win rate at the casino.
+To learn more about the odds, I have decided to do a Bachelor of Mathematics (Statistics) & Information Technology (Computer Science),
+to equip myself with the required theoretical knowledge, and the GPA of 6.25 / 7.00 means I am on the right track.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The time came to walk the walk and showcase this knowledge in the real world projects outlined in the section 'Technical Projects' below.
+Moreover, I have been tutoring mathematics and programming (QCAA approved curriculum) to high school students,
+sharing my study techniques and helping them be at the top of their class. 
 
-### Markdown
+When I am not predicting the future or tutoring, I enjoy the sport of powerlifting - as they say, healthy mind in healthy body.
+The plan for the future is to apply my knowledge in the real world, making a contribution to the community,
+and of course to obtain the rank of Master in Statistics, and more.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you are still wondering how I achieved the 100% win rate, well, that is left as an exercise for the reader.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### TECHNICAL PROJECTS
 
-- Bulleted
-- List
+The following is a list (some) projects I have completed either in the field of Statistics or Computer Science.
 
-1. Numbered
-2. List
+# Forecasting Disease Spread Risks Based on Human Movement Patterns
 
-**Bold** and _Italic_ and `Code` text
+This project was a part of QUT's undergraduate research scheme. The main focus was determining
+the correlation between UV radiation and the spread of COVID-19. The language of choice was primarly R,
+and Python. Statistical methodologies such as regression, ANCOVA, experimental design, significance testing,
+and others were utilised.
 
-[Link](url) and ![Image](src)
-```
+# Modelling the Dissolution Rates in Aqueous Environment
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ This was a group statistical project completed in R Studio with the purpose of modelling the dissolution rate of medicine in aqueous environment. It also required a supporting technical report and a product pitch presentation. This project was excellent experience into statistical data analysis and regression modelling. I was in charge of the coding aspect of the project as well as part of presenting. It was completed following Agile / Scrum methodologies and continuous integration. 
+ 
+# Digital Billboard Management System 
 
-### Jekyll Themes
+Project completed in a team of four using Java as a language of choice. Consisted of three applications – a Server (Maria DB), a Control Panel and a Viewer. Project had to be completed in Swing without API’s. The focus was on test driven development, unit testing (JUnit) and continuous integration, using Agile / Scrum methodologies as well as version control (Git). I was in charge of the entire front end, having built the Control Panel interface, and client-side communication with the server with all of its functionalities. Moreover, I have assisted in debugging of back-end code, and have coordinated meetings / sprints. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/filipjm/PhilJuricevPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Route Optimisation Application 
 
-### Support or Contact
+ Project completed in C#, this was a console application that needed to solve the Travelling Salesman problem with four levels of optimisation. The main focus was task complexity and application of algorithms. I have utilised mutliple algorithms such as Genetic, Heaps (brute forcing), K-Opt (3), and others. However, despite it not being required, I have gone beyond the requirements and have multithreaded the entire application to reduce the computational time. 
+ 
+# Cyber Threat Analysis
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Completed in a team of four, the project task was to analyse a snippet of a hypothetical network, using
+Wireshark, and write a technical report. This project involved risk assessment, mitigation strategies,
+and protocol analysis, and network auditing.
+ 
+# MRI Diffusion Tensor and Eigenface Modelling 
+
+ Developed in MATLAB, this project was modelling and optimising MRI brain scans, dealing with multidimensional matrices and vectors, as well as modelling of eigenfaces. Completed following Scrum methodologies, it also required a product pitch as well as a technical report. I was in charge of the MRI Diffusion Tensor modelling part – including the coding, report writing and pitching. I have also coordinated the group members as Scrum master.
+ 
+# Tom & Jerry (Pacman Style) 
+
+A game that I have developed individually as a part of the Embedded Systems course, which was a console application completed in C. The player runs as Jerry (Pacman) collecting cheese and escaping from Tom (Ghosts). Then the project had to be ported onto a Teensy  - microcontroller. This project gave me experience in low level programming and programming with embedded systems. 
+  
