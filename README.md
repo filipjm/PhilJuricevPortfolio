@@ -16,7 +16,7 @@ and of course to obtain the rank of Master in Statistics, and more.
 If you are still wondering how I achieved the 100% win rate, well, that is left as an exercise for the reader.
 
 
-### TECHNICAL PROJECTS
+# TECHNICAL PROJECTS
 
 The following is a list (some) projects I have completed either in the field of Statistics or Computer Science.
 
