@@ -10,7 +10,7 @@ sharing my study techniques and helping them be at the top of their class.
 
 When I am not predicting the future or tutoring, I enjoy the sport of powerlifting - as they say, healthy mind in healthy body.
 The plan for the future is to apply my knowledge in the real world, making a contribution to the community,
-and of course to obtain a Masters degree, and more.
+to obtain a Masters degree, and more.
 
 # TECHNICAL PROJECTS
 
