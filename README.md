@@ -22,6 +22,11 @@ This project was a part of QUT's undergraduate research scheme. The main focus w
 the correlation between UV radiation and the spread of COVID-19. The language of choice was primarly R,
 and Python. Statistical methodologies such as regression, ANCOVA, experimental design, significance testing,
 and others were utilised.
+• Maintained and cleaned datasets from external sources
+• Planned and constructed experimental designs
+• Interpreted, analysed and modelled datasets using R and Python
+• Communicated the project plan progress with the supervisor and teammate
+• Written a scientific report publication
 
 ### Modelling the Dissolution Rates in Aqueous Environment
 
