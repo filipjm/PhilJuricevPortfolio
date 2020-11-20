@@ -20,12 +20,12 @@ The following is a list of (some) projects I have completed either in the field 
 
 This project was a part of QUT's undergraduate research scheme. The main focus was determining
 the correlation between UV radiation and the spread of COVID-19. The language of choice was primarly R,
-and Python. Statistical methodologies such as regression, ANCOVA, experimental design, significance testing,
-and others were utilised.
-• Maintained and cleaned datasets from external sources
-• Planned and constructed experimental designs
-• Interpreted, analysed and modelled datasets using R and Python
-• Communicated the project plan progress with the supervisor and teammate
+and Python. Statistical methodologies such as regression, ANCOVA, experimental design, spatial and temporal data correlation analysis
+and others were utilised.<br />
+• Maintained and cleaned datasets from external sources<br />
+• Planned and constructed experimental designs<br />
+• Interpreted, analysed and modelled datasets using R and Python<br />
+• Communicated the project plan progress with the supervisor and teammate<br />
 • Written a scientific report publication
 
 ### Modelling the Dissolution Rates in Aqueous Environment
