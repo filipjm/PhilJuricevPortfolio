@@ -2,7 +2,7 @@
 
 I have always been fascinated by probability, the chance and the uncertainty. So to learn more about the rules that govern chaos,
 in 2018 I have decided to do a Bachelor of Mathematics (Statistics) & Information Technology (Computer Science), 
-to equip myself with the required theoretical knowledge, and with the GPA of 6.25 / 7.00.
+to equip myself with the required theoretical knowledge, and with the GPA of 6.21 / 7.00.
 
 The time came to walk the walk and showcase this knowledge in the real world projects outlined in the section 'Technical Projects' below.
 Moreover, I have been tutoring mathematics and programming (QCAA approved curriculum) to high school students,
