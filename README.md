@@ -31,7 +31,7 @@ and others were utilised.<br />
 • Written a scientific report publication
 
 ### Disaster Survival Prediction Modelling
-Git: https://github.com/filipjm/KaggleTitanic.git
+Git: [link here](https://github.com/filipjm/KaggleTitanic.git) <br />
 Individual project completed in R, using the Random Forest algorithm to create a prediction model <br />
 for the survival of passengers on a ship. This project required dataset cleaning, experimental design <br />
 and classification / regression analysis
