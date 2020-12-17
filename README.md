@@ -30,6 +30,12 @@ and others were utilised.<br />
 • Communicated the project plan progress with the supervisor and teammate<br />
 • Written a scientific report publication
 
+### Disaster Survival Prediction Modelling
+Git: https://github.com/filipjm/KaggleTitanic.git
+Individual project completed in R, using the Random Forest algorithm to create a prediction model <br />
+for the survival of passengers on a ship. This project required dataset cleaning, experimental design <br />
+and classification / regression analysis
+
 ### Modelling the Dissolution Rates in Aqueous Environment
 
  This was a group statistical project completed in R Studio with the purpose of modelling the dissolution rate of medicine in aqueous environment. It also required a supporting technical report and a product pitch presentation. This project was excellent experience into statistical data analysis and regression modelling. I was in charge of the coding aspect of the project as well as part of presenting. It was completed following Agile / Scrum methodologies and continuous integration. 
