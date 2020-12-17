@@ -24,6 +24,8 @@ and Python. Statistical methodologies such as regression, ANCOVA, experimental d
 and others were utilised.<br />
 • Maintained and cleaned datasets from external sources<br />
 • Planned and constructed experimental designs<br />
+•	Conducted statistical Fourier analysis<br />
+•	Correlation analysis of geospatial / temporal data<br />
 • Interpreted, analysed and modelled datasets using R and Python<br />
 • Communicated the project plan progress with the supervisor and teammate<br />
 • Written a scientific report publication
