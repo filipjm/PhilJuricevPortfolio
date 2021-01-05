@@ -61,4 +61,10 @@ and protocol analysis, and network auditing.
 ### Tom & Jerry (Pacman Style) 
 
 A game that I have developed individually as a part of the Embedded Systems course, which was a console application completed in C. The player runs as Jerry (Pacman) collecting cheese and escaping from Tom (Ghosts). Then the project had to be ported onto a Teensy  - microcontroller. This project gave me experience in low level programming and programming with embedded systems. 
+
+### SQL Database Project 
+
+This project was completed as the final project of my high school Information Technology class. 
+The task was to design, develop and deliver an information system database for a company of my choice.
+The project required extensive use of MS Access, MySQL, schematic design, and technical report writing.
   
