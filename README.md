@@ -16,7 +16,7 @@ to obtain a Masters degree, and more.
 
 The following is a list of (some) projects I have completed either in the field of Statistics or Computer Science.
 
-### Forecasting Disease Spread Risks Based on Human Movement Patterns
+### Spatio-temporal Correlation Analysis of COVID-19 Cases versus UV Index
 
 This project was a part of QUT's undergraduate research scheme. The main focus was determining
 the correlation between UV radiation and the spread of COVID-19. The language of choice was primarly R,
