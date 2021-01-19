@@ -30,6 +30,11 @@ and others were utilised.<br />
 • Communicated the project plan progress with the supervisor and teammate<br />
 • Written a scientific report publication
 
+### Grocery Store Click & Collect Style Website
+Git: [link here](https://github.com/filipjm/WebDev-GroceryStore) <br />
+Individual project completed to work on UI / UX design skills. <br />
+Completed in HTML5, CSS3 and JavaScript. Limited functionality. Purely done for design purposes <br />
+
 ### Disaster Survival Prediction Modelling
 Git: [link here](https://github.com/filipjm/KaggleTitanic.git) <br />
 Individual project completed in R, using the Random Forest algorithm to create a prediction model <br />
